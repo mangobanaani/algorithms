@@ -1,7 +1,7 @@
 package com.github.mangobanaani.sorting;
 
 /**
- * Created by pekka on 13/07/2017.
+ * Created by mangobanaani on 13/07/2017.
  */
 public class QuickSort {
 
