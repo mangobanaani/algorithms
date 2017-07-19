@@ -13,6 +13,7 @@
 <ul>
 <li><a href="https://github.com/mangobanaani/algorithms/blob/master/com/github/mangobanaani/structures/Queue.java">Queue</a></li>
 <li><a href="https://github.com/mangobanaani/algorithms/blob/master/com/github/mangobanaani/structures/Stack.java">Stack</a></li>
+<li><a href="https://github.com/mangobanaani/algorithms/blob/master/com/github/mangobanaani/structures/LinkedList.java">Linked list</a></li>
 </ul>
 </br>
 <p>Trees</p>
